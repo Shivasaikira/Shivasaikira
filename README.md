@@ -11,7 +11,9 @@ From explaining the beauty of calculus on a chalkboard to uncovering trends in d
 
 📚 With a strong foundation in mathematical principles, I'm now diving deep into data analysis, visualization, and predictive modeling to unlock insights and shape the future.
 
+### 📚 Projects
 
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Shivasaikira/Portfolio_Projects/blob/main/README.md).
 
 ## 🚀 Core Skills
 
