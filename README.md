@@ -2,7 +2,6 @@
 
 🎓 **Mathematics Educator Turned Data Analyst** | 📊 **Empowering Insights Through Data**
 
----
 
 ## 🌟 About Me
 
@@ -12,7 +11,7 @@ From explaining the beauty of calculus on a chalkboard to uncovering trends in d
 
 📚 With a strong foundation in mathematical principles, I'm now diving deep into data analysis, visualization, and predictive modeling to unlock insights and shape the future.
 
----
+
 
 ## 🚀 Core Skills
 
@@ -30,18 +29,12 @@ From explaining the beauty of calculus on a chalkboard to uncovering trends in d
 - 🗣️ **Presentation**: Conveying actionable insights
 - 💡 **Simplifying Complexity**: Breaking down difficult concepts
 
----
 
-
----
-
-
----
 
 ## 🌱 Fun Fact
 In my teaching days, I often joked that mathematics is the "language of the universe." Now, I realize that data is its voice, and I’m here to interpret it.
 
----
+
 
 ## 📫 Let’s Connect!
 - GitHub: [github.com/Shivasaikira](https://github.com/Shivasaikira)
