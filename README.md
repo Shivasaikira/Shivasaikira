@@ -18,7 +18,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Shiva
 ## 🚀 Core Skills
 
 ### Data Analysis & Visualization:
-- 🐍 **Python**: Data analysis and scripting
+- 🐍 **Python**: Data analysis 
 - 🖥️ **Power BI**: Interactive dashboards
   
 ### Data Manipulation:
