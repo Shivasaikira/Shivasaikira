@@ -1,3 +1,4 @@
+![Logo](https://github.com/Shivasaikira/Shivasaikira/blob/main/background.png)
 # 👋 Hi there! I'm Shiva Sai Kiran
 
 🎓 **Mathematics Educator Turned Data Analyst** | 📊 **Empowering Insights Through Data**
