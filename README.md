@@ -1,4 +1,4 @@
-![Logo](https://github.com/Shivasaikira/Shivasaikira/blob/main/background.png)
+![Logo](https://github.com/Shivasaikira/Shivasaikira/blob/main/Background.png)
 # 👋 Hi there! I'm Shiva Sai Kiran
 
 🎓 **Mathematics Educator Turned Data Analyst** | 📊 **Empowering Insights Through Data**
@@ -7,10 +7,6 @@
 ## 🌟 About Me
 
 From explaining the beauty of calculus on a chalkboard to uncovering trends in datasets, my journey has been all about making numbers meaningful. As a former Mathematics Teacher, I honed the skills of breaking down complex concepts into understandable insights—a skill I now apply to data analytics.
-
-📌 **My mission** is simple: to tell stories through data—stories that guide decisions, solve problems, and create impactful change.
-
-📚 With a strong foundation in mathematical principles, I'm now diving deep into data analysis, visualization, and predictive modeling to unlock insights and shape the future.
 
 ### 📚 Projects
 
