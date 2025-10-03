@@ -1,4 +1,4 @@
-![Logo](https://github.com/Shivasaikira/Shivasaikira/blob/main/github.png)
+![Logo](file:///C:/Users/LENOVO/Downloads/github.png)
 # 👋 Hi there! I'm Shiva Sai Kiran
 
 🎓 **Mathematics Educator Turned Data Scientist** | 📊 **Empowering Insights Through Data**
