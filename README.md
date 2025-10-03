@@ -1,4 +1,5 @@
-![Logo](file:///C:/Users/LENOVO/Downloads/github.png)
+![Logo](<img width="369" height="191" alt="github" src="https://github.com/user-attachments/assets/e50afb26-418c-43b2-ae5f-45f59ef4b45d" />
+)
 # 👋 Hi there! I'm Shiva Sai Kiran
 
 🎓 **Mathematics Educator Turned Data Scientist** | 📊 **Empowering Insights Through Data**
